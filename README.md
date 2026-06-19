@@ -18,6 +18,7 @@ All leetcode problems from easy to hard
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1732-find-the-highest-altitude](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/1732-find-the-highest-altitude) |
 ## Prefix Sum
 |  |
@@ -27,4 +28,8 @@ All leetcode problems from easy to hard
 |  |
 | ------- |
 | [0185-department-top-three-salaries](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0185-department-top-three-salaries) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
