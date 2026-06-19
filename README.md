@@ -23,4 +23,8 @@ All leetcode problems from easy to hard
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/1732-find-the-highest-altitude) |
+## Database
+|  |
+| ------- |
+| [0185-department-top-three-salaries](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0185-department-top-three-salaries) |
 <!---LeetCode Topics End-->
