@@ -19,6 +19,7 @@ All leetcode problems from easy to hard
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0053-maximum-subarray) |
 | [1732-find-the-highest-altitude](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/1732-find-the-highest-altitude) |
@@ -38,6 +39,7 @@ All leetcode problems from easy to hard
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0053-maximum-subarray) |
 ## Dynamic Programming
 |  |
@@ -47,4 +49,8 @@ All leetcode problems from easy to hard
 |  |
 | ------- |
 | [1840-maximum-building-height](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/1840-maximum-building-height) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
