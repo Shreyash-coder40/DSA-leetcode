@@ -1,7 +1,7 @@
 class Solution {
 public:
     int majorityElement(vector<int>& nums) {
-        
+        // Moores voting algorithm
         int freq=0;
         int ans=0;
         for (int i=0;i<nums.size();i++){
