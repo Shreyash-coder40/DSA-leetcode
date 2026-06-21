@@ -1,48 +1,35 @@
-<p align="center">
-  <img src="./assets/banner.png" alt="DSA LeetCode Solutions Banner" width="100%" />
-</p>
+# 🚀 Data Structures & Algorithms (LeetCode)
 
-<h1 align="center">🚀 Data Structures & Algorithms Solutions</h1>
+A structured and clean catalog of my solutions to various coding challenges on LeetCode. This repository serves as a personal log of my problem-solving journey and is optimized for interview preparation.
 
-<p align="center">
-  <strong>A curated collection of LeetCode solutions, designed for interview preparation and problem-solving mastery.</strong>
-</p>
+[![GitHub Stars](https://img.shields.io/github/stars/Shreyash-coder40/DSA-leetcode?style=flat-square&logo=github&color=eea53c)](https://github.com/Shreyash-coder40/DSA-leetcode/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/Shreyash-coder40/DSA-leetcode?style=flat-square&logo=github&color=3386e0)](https://github.com/Shreyash-coder40/DSA-leetcode/network/members)
+[![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-orange?style=flat-square&logo=leetcode)](https://leetcode.com/Shreyash-coder40/)
+[![Primary Languages](https://img.shields.io/badge/Languages-C%2B%2B%20%2F%20SQL-blue?style=flat-square&logo=c%2B%2B)](https://github.com/Shreyash-coder40/DSA-leetcode)
 
-<p align="center">
-  <a href="https://github.com/Shreyash-coder40/DSA-leetcode/stargazers"><img src="https://img.shields.io/github/stars/Shreyash-coder40/DSA-leetcode?style=for-the-badge&color=gold" alt="GitHub Stars"/></a>
-  <a href="https://github.com/Shreyash-coder40/DSA-leetcode/network/members"><img src="https://img.shields.io/github/forks/Shreyash-coder40/DSA-leetcode?style=for-the-badge&color=blue" alt="GitHub Forks"/></a>
-  <a href="https://github.com/Shreyash-coder40/DSA-leetcode/issues"><img src="https://img.shields.io/github/issues/Shreyash-coder40/DSA-leetcode?style=for-the-badge&color=red" alt="GitHub Issues"/></a>
-</p>
+---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Language-C%2B%2B%20%2F%20SQL-blue?style=flat-square&logo=c%2B%2B" alt="Languages"/>
-  <img src="https://img.shields.io/badge/Platform-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="Platform"/>
-  <img src="https://img.shields.io/badge/User-Shreyash--coder40-brightgreen?style=flat-square" alt="User"/>
+## 📊 Live Statistics
+
+My LeetCode statistics update in real-time as new solutions are pushed to the repository:
+
+<p align="left">
+  <img src="https://leetcard.jacoblin.cool/Shreyash-coder40?theme=dark&font=Outfit" alt="LeetCode Stats" width="450px" />
 </p>
 
 ---
 
-## 📊 Live LeetCode Progress
+## 🛠️ Tech Stack & Structure
 
-My solved statistics update automatically in real-time as I push new solutions:
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Shreyash-coder40?theme=dark&font=Outfit" alt="LeetCode Stats" width="80%" />
-</p>
-
----
-
-## 🛠️ Tech Stack & Toolkit
-
-*   **Primary Language:** C++ (Standard Template Library, performance optimized)
-*   **Database Queries:** SQL (Structured Query Language for relational database challenges)
-*   **Automation Tool:** LeetHub v2 (Automatic synchronization from LeetCode to GitHub)
+*   **Languages:** C++ (Standard Template Library) & SQL (Database challenges)
+*   **Automation:** Syncing via LeetHub v2
+*   **Directory Layout:** Each directory contains the solution file and a `README.md` with the problem statement.
 
 ---
 
 ## 📚 Problem Catalog
 
-A structured index of all problems solved. Click the problem title to see the description, and select the language under **Solution** to view the implementation.
+Below is the structured list of all solved problems. Click on the problem title to view its details, and select the language badge under **Solution** to view the implementation.
 
 | # | Problem Title | Solution | Difficulty | Topics / Category |
 | :---: | :--- | :---: | :---: | :--- |
@@ -58,26 +45,26 @@ A structured index of all problems solved. Click the problem title to see the de
 
 ---
 
-## 💻 Running Locally
+## 💻 Running Solutions Locally
 
-To compile and execute any solution file locally:
+To compile and execute any C++ solution file locally:
 
-1.  Clone this repository:
-    ```bash
-    git clone https://github.com/Shreyash-coder40/DSA-leetcode.git
-    ```
-2.  Navigate to the target problem's folder:
-    ```bash
-    cd 0003-longest-substring-without-repeating-characters
-    ```
-3.  Compile using any modern C++ compiler (e.g. GCC/Clang):
-    ```bash
-    g++ -O3 0003-longest-substring-without-repeating-characters.cpp -o solution
-    ```
-4.  Run the executable:
-    ```bash
-    ./solution
-    ```
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/Shreyash-coder40/DSA-leetcode.git
+   ```
+2. Navigate to the specific problem directory:
+   ```bash
+   cd 0003-longest-substring-without-repeating-characters
+   ```
+3. Compile using GCC:
+   ```bash
+   g++ -O3 0003-longest-substring-without-repeating-characters.cpp -o solution
+   ```
+4. Execute:
+   ```bash
+   ./solution
+   ```
 
 ---
 
