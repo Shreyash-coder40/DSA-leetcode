@@ -1,5 +1,59 @@
-# DSA-leetcode
-All leetcode problems from easy to hard
+# 🚀 DSA & LeetCode Solutions
+
+Welcome to my repository showcasing solutions to various Data Structures and Algorithms (DSA) problems, primarily from LeetCode. This repository serves as a record of my problem-solving journey, consistency, and progress.
+
+---
+
+## 📊 LeetCode Statistics
+
+Here is my real-time LeetCode progress, which automatically updates as I submit new solutions:
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Shreyash-coder40?theme=dark&font=Outfit" alt="LeetCode Stats" />
+</p>
+
+---
+
+## 🛠️ Languages Used
+
+- **C++** (Primary language for solving algorithms & data structures)
+- **SQL** (For database-related query challenges)
+
+---
+
+## 📚 Problem Index
+
+Below is the structured list of all solved problems. Click on the problem name to view the LeetCode description, or click on the solution link to view the code.
+
+| # | Problem Title | Solution | Difficulty | Category / Topics |
+| :--- | :--- | :--- | :--- | :--- |
+| 0003 | [Longest Substring Without Repeating Characters](./0003-longest-substring-without-repeating-characters) | [C++](./0003-longest-substring-without-repeating-characters/0003-longest-substring-without-repeating-characters.cpp) | 🟡 Medium | `Hash Table`, `String`, `Sliding Window` |
+| 0004 | [Median of Two Sorted Arrays](./0004-median-of-two-sorted-arrays) | [C++](./0004-median-of-two-sorted-arrays/0004-median-of-two-sorted-arrays.cpp) | 🔴 Hard | `Array`, `Binary Search`, `Divide and Conquer` |
+| 0026 | [Remove Duplicates from Sorted Array](./0026-remove-duplicates-from-sorted-array) | [C++](./0026-remove-duplicates-from-sorted-array/0026-remove-duplicates-from-sorted-array.cpp) | 🟢 Easy | `Array`, `Two Pointers` |
+| 0053 | [Maximum Subarray](./0053-maximum-subarray) | [C++](./0053-maximum-subarray/0053-maximum-subarray.cpp) | 🟡 Medium | `Array`, `Divide and Conquer`, `Dynamic Programming` |
+| 0185 | [Department Top Three Salaries](./0185-department-top-three-salaries) | [SQL](./0185-department-top-three-salaries/0185-department-top-three-salaries.sql) | 🔴 Hard | `Database` |
+| 1344 | [Angle Between Hands of a Clock](./1344-angle-between-hands-of-a-clock) | [C++](./1344-angle-between-hands-of-a-clock/1344-angle-between-hands-of-a-clock.cpp) | 🟡 Medium | `Math` |
+| 1732 | [Find the Highest Altitude](./1732-find-the-highest-altitude) | [C++](./1732-find-the-highest-altitude/1732-find-the-highest-altitude.cpp) | 🟢 Easy | `Array`, `Prefix Sum` |
+| 1840 | [Maximum Building Height](./1840-maximum-building-height) | [C++](./1840-maximum-building-height/1840-maximum-building-height.cpp) | 🔴 Hard | `Math`, `Array`, `Sorting` |
+| 3614 | [Process String with Special Operations II](./3614-process-string-with-special-operations-ii) | [C++](./3614-process-string-with-special-operations-ii/3614-process-string-with-special-operations-ii.cpp) | 🔴 Hard | `String`, `Simulation` |
+
+---
+
+## 🚀 How to Run Locally
+
+If you'd like to test any C++ solution locally:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Shreyash-coder40/DSA-leetcode.git
+   ```
+2. Navigate to the problem folder and compile the C++ file:
+   ```bash
+   g++ -O3 solution.cpp -o solution
+   ./solution
+   ```
+
+---
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
