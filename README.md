@@ -92,6 +92,7 @@ To compile and execute any C++ solution file locally:
 | [0053-maximum-subarray](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0169-majority-element) |
 | [1732-find-the-highest-altitude](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/1732-find-the-highest-altitude) |
+| [1833-maximum-ice-cream-bars](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/1840-maximum-building-height) |
 ## Prefix Sum
 |  |
@@ -119,6 +120,7 @@ To compile and execute any C++ solution file locally:
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0169-majority-element) |
+| [1833-maximum-ice-cream-bars](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/1840-maximum-building-height) |
 ## Binary Search
 |  |
@@ -137,4 +139,12 @@ To compile and execute any C++ solution file locally:
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0169-majority-element) |
+## Greedy
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/1833-maximum-ice-cream-bars) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
