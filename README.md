@@ -79,6 +79,7 @@ To compile and execute any C++ solution file locally:
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1189-maximum-number-of-balloons](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/3614-process-string-with-special-operations-ii) |
 ## Simulation
 |  |
@@ -131,6 +132,7 @@ To compile and execute any C++ solution file locally:
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0169-majority-element) |
+| [1189-maximum-number-of-balloons](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/1189-maximum-number-of-balloons) |
 ## Sliding Window
 |  |
 | ------- |
@@ -139,6 +141,7 @@ To compile and execute any C++ solution file locally:
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0169-majority-element) |
+| [1189-maximum-number-of-balloons](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/1189-maximum-number-of-balloons) |
 ## Greedy
 |  |
 | ------- |
