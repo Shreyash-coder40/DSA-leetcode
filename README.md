@@ -90,6 +90,7 @@ To compile and execute any C++ solution file locally:
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -108,6 +109,7 @@ To compile and execute any C++ solution file locally:
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Divide and Conquer
 |  |
@@ -148,6 +150,7 @@ To compile and execute any C++ solution file locally:
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0011-container-with-most-water) |
 | [1833-maximum-ice-cream-bars](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/1833-maximum-ice-cream-bars) |
 ## Counting Sort
 |  |
