@@ -73,6 +73,7 @@ To compile and execute any C++ solution file locally:
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0050-powx-n) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/1840-maximum-building-height) |
 ## String
@@ -150,4 +151,8 @@ To compile and execute any C++ solution file locally:
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/1833-maximum-ice-cream-bars) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
