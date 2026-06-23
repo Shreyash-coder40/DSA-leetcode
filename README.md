@@ -103,6 +103,7 @@ To compile and execute any C++ solution file locally:
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/1732-find-the-highest-altitude) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Database
 |  |
 | ------- |
@@ -124,6 +125,7 @@ To compile and execute any C++ solution file locally:
 | ------- |
 | [0053-maximum-subarray](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Sorting
 |  |
 | ------- |
