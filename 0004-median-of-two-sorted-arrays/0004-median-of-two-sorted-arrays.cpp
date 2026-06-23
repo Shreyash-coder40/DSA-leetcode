@@ -1,39 +1,37 @@
 class Solution {
 public:
     double findMedianSortedArrays(vector<int>& nums1, vector<int>& nums2) {
-        int length_of_v1=nums1.size();
-        int length_of_v2=nums2.size();
-        vector <int> merged_vector={};
-        int i=0;
-        int j=0;
-        while (i<length_of_v1 && j<length_of_v2){
-            if (nums1[i]<nums2[j]){
-                merged_vector.push_back(nums1[i]);
-                i++;
-            }else{
-                merged_vector.push_back(nums2[j]);
-                j++;
+        if (nums1.size() > nums2.size()) {
+            return findMedianSortedArrays(nums2, nums1);
+        }
+
+        int m = nums1.size(), n = nums2.size();
+        int left = 0, right = m;
+
+        while (left <= right) {
+            int partitionA = (left + right) / 2;
+            int partitionB = (m + n + 1) / 2 - partitionA;
+
+            int maxLeftA = (partitionA == 0) ? INT_MIN : nums1[partitionA - 1];
+            int minRightA = (partitionA == m) ? INT_MAX : nums1[partitionA];
+            int maxLeftB = (partitionB == 0) ? INT_MIN : nums2[partitionB - 1];
+            int minRightB = (partitionB == n) ? INT_MAX : nums2[partitionB];
+
+            if (maxLeftA <= minRightB && maxLeftB <= minRightA) {
+                if ((m + n) % 2 == 0) {
+                    return (max(maxLeftA, maxLeftB) +
+                            min(minRightA, minRightB)) /
+                           2.0;
+                } else {
+                    return max(maxLeftA, maxLeftB);
+                }
+            } else if (maxLeftA > minRightB) {
+                right = partitionA - 1;
+            } else {
+                left = partitionA + 1;
             }
-
         }
 
-        while (i<length_of_v1){
-            merged_vector.push_back(nums1[i]);
-            i++;
-        }
-
-        while (j<length_of_v2){
-            merged_vector.push_back(nums2[j]);
-            j++;
-        }
-
-        int length_of_merged_vector=merged_vector.size();
-        int mid = length_of_merged_vector/2;
-        if (length_of_merged_vector%2==0){
-            return (double)((merged_vector[mid-1]+merged_vector[mid])/2.0);
-        }else{
-            return (double) (merged_vector[mid]);
-        }
-
+        return 0.0;
     }
 };
