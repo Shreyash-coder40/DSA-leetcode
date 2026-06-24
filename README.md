@@ -76,6 +76,7 @@ To compile and execute any C++ solution file locally:
 | [0050-powx-n](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0050-powx-n) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/1840-maximum-building-height) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## String
 |  |
 | ------- |
@@ -126,6 +127,7 @@ To compile and execute any C++ solution file locally:
 | [0053-maximum-subarray](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Sorting
 |  |
 | ------- |
