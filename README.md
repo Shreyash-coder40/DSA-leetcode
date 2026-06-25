@@ -105,6 +105,7 @@ To compile and execute any C++ solution file locally:
 | [2553-separate-the-digits-in-an-array](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -135,6 +136,7 @@ To compile and execute any C++ solution file locally:
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
+| [3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element) |
 ## Sorting
 |  |
 | ------- |
