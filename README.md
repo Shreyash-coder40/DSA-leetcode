@@ -118,6 +118,7 @@ To compile and execute any C++ solution file locally:
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0175-combine-two-tables) |
 | [0185-department-top-three-salaries](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0185-department-top-three-salaries) |
 ## Two Pointers
 |  |
