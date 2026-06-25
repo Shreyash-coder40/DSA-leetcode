@@ -77,6 +77,7 @@ To compile and execute any C++ solution file locally:
 | [1344-angle-between-hands-of-a-clock](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/1840-maximum-building-height) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## String
 |  |
 | ------- |
@@ -102,6 +103,7 @@ To compile and execute any C++ solution file locally:
 | [1840-maximum-building-height](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/1840-maximum-building-height) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/2553-separate-the-digits-in-an-array) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Prefix Sum
 |  |
