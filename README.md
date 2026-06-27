@@ -105,6 +105,7 @@ To compile and execute any C++ solution file locally:
 | [1840-maximum-building-height](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/1840-maximum-building-height) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/2553-separate-the-digits-in-an-array) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element) |
@@ -161,6 +162,7 @@ To compile and execute any C++ solution file locally:
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0169-majority-element) |
 | [1189-maximum-number-of-balloons](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Sliding Window
@@ -201,4 +203,8 @@ To compile and execute any C++ solution file locally:
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0136-single-number) |
+## Enumeration
+|  |
+| ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 <!---LeetCode Topics End-->
