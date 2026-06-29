@@ -83,6 +83,7 @@ To compile and execute any C++ solution file locally:
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/3614-process-string-with-special-operations-ii) |
 ## Simulation
 |  |
@@ -106,6 +107,7 @@ To compile and execute any C++ solution file locally:
 | [1840-maximum-building-height](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
