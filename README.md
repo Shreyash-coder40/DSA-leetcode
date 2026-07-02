@@ -104,6 +104,7 @@ To compile and execute any C++ solution file locally:
 | [0136-single-number](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0283-move-zeroes) |
 | [1732-find-the-highest-altitude](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/1840-maximum-building-height) |
@@ -137,6 +138,7 @@ To compile and execute any C++ solution file locally:
 | [0011-container-with-most-water](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0027-remove-element) |
+| [0283-move-zeroes](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0283-move-zeroes) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Divide and Conquer
 |  |
