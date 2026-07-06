@@ -84,6 +84,7 @@ To compile and execute any C++ solution file locally:
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0014-longest-common-prefix) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -143,6 +144,7 @@ To compile and execute any C++ solution file locally:
 | [0011-container-with-most-water](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0283-move-zeroes](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0283-move-zeroes) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Divide and Conquer
@@ -278,4 +280,8 @@ To compile and execute any C++ solution file locally:
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
