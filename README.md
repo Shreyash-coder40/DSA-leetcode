@@ -79,6 +79,7 @@ To compile and execute any C++ solution file locally:
 | [2235-add-two-integers](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/2235-add-two-integers) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## String
 |  |
 | ------- |
