@@ -73,6 +73,7 @@ To compile and execute any C++ solution file locally:
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0050-powx-n) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/1840-maximum-building-height) |
