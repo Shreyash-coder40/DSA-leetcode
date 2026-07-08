@@ -76,6 +76,7 @@ To compile and execute any C++ solution file locally:
 | [0007-reverse-integer](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0069-sqrtx) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/1840-maximum-building-height) |
 | [2235-add-two-integers](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/2235-add-two-integers) |
@@ -186,6 +187,7 @@ To compile and execute any C++ solution file locally:
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0069-sqrtx](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0069-sqrtx) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/3620-network-recovery-pathways) |
 ## Hash Table
