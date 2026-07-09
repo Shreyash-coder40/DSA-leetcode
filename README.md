@@ -129,6 +129,7 @@ To compile and execute any C++ solution file locally:
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/3620-network-recovery-pathways) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -191,6 +192,7 @@ To compile and execute any C++ solution file locally:
 | [0004-median-of-two-sorted-arrays](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0069-sqrtx) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/3620-network-recovery-pathways) |
 ## Hash Table
 |  |
@@ -201,6 +203,7 @@ To compile and execute any C++ solution file locally:
 | [1189-maximum-number-of-balloons](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Sliding Window
@@ -258,6 +261,7 @@ To compile and execute any C++ solution file locally:
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -275,6 +279,7 @@ To compile and execute any C++ solution file locally:
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
