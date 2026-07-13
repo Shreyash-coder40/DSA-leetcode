@@ -259,6 +259,7 @@ To compile and execute any C++ solution file locally:
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/1291-sequential-digits) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Breadth-First Search
 |  |
