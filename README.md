@@ -128,6 +128,7 @@ To compile and execute any C++ solution file locally:
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/2553-separate-the-digits-in-an-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -266,6 +267,7 @@ To compile and execute any C++ solution file locally:
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/1291-sequential-digits) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Breadth-First Search
 |  |
