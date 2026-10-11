@@ -334,4 +334,8 @@ To compile and execute any C++ solution file locally:
 |  |
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
