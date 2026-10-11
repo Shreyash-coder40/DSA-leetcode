@@ -135,6 +135,7 @@ To compile and execute any C++ solution file locally:
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/3620-network-recovery-pathways) |
+| [3731-find-missing-elements](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element) |
@@ -195,6 +196,7 @@ To compile and execute any C++ solution file locally:
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3731-find-missing-elements](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -215,6 +217,7 @@ To compile and execute any C++ solution file locally:
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3731-find-missing-elements](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Sliding Window
