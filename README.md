@@ -272,6 +272,7 @@ To compile and execute any C++ solution file locally:
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -316,6 +317,7 @@ To compile and execute any C++ solution file locally:
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/2685-count-the-number-of-complete-components) |
 ## Trie
@@ -338,4 +340,12 @@ To compile and execute any C++ solution file locally:
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0020-valid-parentheses) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
