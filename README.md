@@ -317,6 +317,7 @@ To compile and execute any C++ solution file locally:
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -333,6 +334,7 @@ To compile and execute any C++ solution file locally:
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Number Theory
 |  |
@@ -345,11 +347,13 @@ To compile and execute any C++ solution file locally:
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
