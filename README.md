@@ -118,6 +118,7 @@ To compile and execute any C++ solution file locally:
 | [0217-contains-duplicate](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1288-remove-covered-intervals](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -171,6 +172,7 @@ To compile and execute any C++ solution file locally:
 | [0004-median-of-two-sorted-arrays](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0347-top-k-frequent-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Dynamic Programming
@@ -190,6 +192,7 @@ To compile and execute any C++ solution file locally:
 | ------- |
 | [0169-majority-element](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1288-remove-covered-intervals](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/1833-maximum-ice-cream-bars) |
@@ -213,6 +216,7 @@ To compile and execute any C++ solution file locally:
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1189-maximum-number-of-balloons](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -230,6 +234,7 @@ To compile and execute any C++ solution file locally:
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1189-maximum-number-of-balloons](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Greedy
@@ -287,6 +292,7 @@ To compile and execute any C++ solution file locally:
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0347-top-k-frequent-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/3620-network-recovery-pathways) |
@@ -359,4 +365,12 @@ To compile and execute any C++ solution file locally:
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
