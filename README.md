@@ -100,6 +100,7 @@ To compile and execute any C++ solution file locally:
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0059-spiral-matrix-ii) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/3614-process-string-with-special-operations-ii) |
 ## Array
@@ -111,6 +112,7 @@ To compile and execute any C++ solution file locally:
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0053-maximum-subarray) |
+| [0059-spiral-matrix-ii](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0136-single-number) |
@@ -299,6 +301,7 @@ To compile and execute any C++ solution file locally:
 ## Matrix
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0059-spiral-matrix-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
