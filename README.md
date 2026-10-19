@@ -330,6 +330,7 @@ To compile and execute any C++ solution file locally:
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/2685-count-the-number-of-complete-components) |
@@ -362,6 +363,7 @@ To compile and execute any C++ solution file locally:
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -370,6 +372,7 @@ To compile and execute any C++ solution file locally:
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Bucket Sort
 |  |
@@ -383,4 +386,12 @@ To compile and execute any C++ solution file locally:
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0543-diameter-of-binary-tree) |
+## Binary Lifting
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
