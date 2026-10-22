@@ -372,6 +372,7 @@ To compile and execute any C++ solution file locally:
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -382,6 +383,7 @@ To compile and execute any C++ solution file locally:
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -406,4 +408,5 @@ To compile and execute any C++ solution file locally:
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
