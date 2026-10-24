@@ -80,6 +80,7 @@ To compile and execute any C++ solution file locally:
 | [1344-angle-between-hands-of-a-clock](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/1840-maximum-building-height) |
 | [2235-add-two-integers](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/2235-add-two-integers) |
+| [2409-count-days-spent-together](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/2409-count-days-spent-together) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -95,6 +96,7 @@ To compile and execute any C++ solution file locally:
 | [1189-maximum-number-of-balloons](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2409-count-days-spent-together](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/2409-count-days-spent-together) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/3614-process-string-with-special-operations-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Simulation
