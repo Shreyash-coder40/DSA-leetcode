@@ -338,6 +338,7 @@ To compile and execute any C++ solution file locally:
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -371,6 +372,7 @@ To compile and execute any C++ solution file locally:
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0700-search-in-a-binary-search-tree) |
@@ -382,6 +384,7 @@ To compile and execute any C++ solution file locally:
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0700-search-in-a-binary-search-tree) |
@@ -409,6 +412,7 @@ To compile and execute any C++ solution file locally:
 ## Binary Search Tree
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
