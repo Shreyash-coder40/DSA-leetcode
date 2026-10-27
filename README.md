@@ -119,6 +119,7 @@ To compile and execute any C++ solution file locally:
 | [0066-plus-one](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0136-single-number) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0238-product-of-array-except-self) |
@@ -171,6 +172,7 @@ To compile and execute any C++ solution file locally:
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0283-move-zeroes) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -216,6 +218,7 @@ To compile and execute any C++ solution file locally:
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0069-sqrtx) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
