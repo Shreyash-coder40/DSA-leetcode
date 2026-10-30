@@ -138,6 +138,7 @@ To compile and execute any C++ solution file locally:
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -240,6 +241,7 @@ To compile and execute any C++ solution file locally:
 | [1189-maximum-number-of-balloons](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3731-find-missing-elements](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/3731-find-missing-elements) |
@@ -251,6 +253,7 @@ To compile and execute any C++ solution file locally:
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0904-fruit-into-baskets](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0904-fruit-into-baskets) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 ## Counting
 |  |
 | ------- |
