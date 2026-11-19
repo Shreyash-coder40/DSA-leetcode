@@ -127,6 +127,7 @@ To compile and execute any C++ solution file locally:
 | [0238-product-of-array-except-self](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0496-next-greater-element-i](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0904-fruit-into-baskets) |
 | [1288-remove-covered-intervals](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/1301-number-of-paths-with-max-score) |
@@ -237,6 +238,7 @@ To compile and execute any C++ solution file locally:
 | [0169-majority-element](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0496-next-greater-element-i](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0904-fruit-into-baskets) |
 | [1189-maximum-number-of-balloons](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -371,6 +373,7 @@ To compile and execute any C++ solution file locally:
 | [0020-valid-parentheses](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0496-next-greater-element-i](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0496-next-greater-element-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -429,4 +432,8 @@ To compile and execute any C++ solution file locally:
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
