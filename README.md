@@ -115,6 +115,7 @@ To compile and execute any C++ solution file locally:
 | [0015-3sum](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0053-maximum-subarray) |
 | [0059-spiral-matrix-ii](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0066-plus-one) |
@@ -176,6 +177,7 @@ To compile and execute any C++ solution file locally:
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0031-next-permutation](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Shreyash-coder40/DSA-leetcode/tree/master/0283-move-zeroes) |
